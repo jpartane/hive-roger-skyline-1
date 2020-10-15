@@ -1,0 +1,4 @@
+e430c4ac7287084bca5fb522981e417bd9f622b6  -
+
+Execute this command on your machine in the goinfre folder to get the number of the current state of the VM for the evaluation
+shasum < disk.vdi
